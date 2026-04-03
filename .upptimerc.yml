@@ -4,9 +4,9 @@ repo: uptime-checker # The name of this repository
 
 sites:
   - name: Renderbit
-    url: https://www.renderbit.com/
+    url: https://www.renderbit.com/site-health-page/
   - name: Renderbit Staging
-    url: https://new.renderbit.com/
+    url: https://new.renderbit.com/site-health-page/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
