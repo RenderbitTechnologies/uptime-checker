@@ -22,4 +22,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/RenderbitTechnologies/renderbit-astro-site
+  metaTags:
+    - name: robots
+      content: noindex, nofollow
 
