@@ -1,38 +1,47 @@
 [
   {
     "name": "Renderbit",
-    "url": "https://www.renderbit.com/",
+    "url": "https://www.renderbit.com/site-health-page/",
     "icon": "https://icons.duckduckgo.com/ip3/www.renderbit.com.ico",
     "slug": "renderbit",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1484,
-    "timeDay": 1484,
-    "timeWeek": 1484,
-    "timeMonth": 1484,
-    "timeYear": 1484,
-    "dailyMinutesDown": {}
+    "uptimeYear": "98.91%",
+    "time": 1354,
+    "timeDay": 1327,
+    "timeWeek": 1224,
+    "timeMonth": 1243,
+    "timeYear": 1354,
+    "dailyMinutesDown": {
+      "2026-03-31": 1291,
+      "2026-03-30": 1440,
+      "2026-03-29": 180
+    }
   },
   {
     "name": "Renderbit Staging",
-    "url": "https://new.renderbit.com/",
+    "url": "https://new.renderbit.com/site-health-page/",
     "icon": "https://icons.duckduckgo.com/ip3/new.renderbit.com.ico",
     "slug": "renderbit-staging",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1455,
-    "timeDay": 1455,
-    "timeWeek": 1455,
-    "timeMonth": 1455,
-    "timeYear": 1455,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.83%",
+    "time": 1080,
+    "timeDay": 1007,
+    "timeWeek": 1141,
+    "timeMonth": 1130,
+    "timeYear": 1080,
+    "dailyMinutesDown": {
+      "2026-03-12": 4,
+      "2026-03-13": 38,
+      "2026-03-30": 106,
+      "2026-03-31": 307
+    }
   }
 ]
