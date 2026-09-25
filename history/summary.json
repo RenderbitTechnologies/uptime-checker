@@ -26,22 +26,23 @@
     "url": "https://new.renderbit.com/site-health-page/",
     "icon": "https://icons.duckduckgo.com/ip3/new.renderbit.com.ico",
     "slug": "renderbit-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 1084,
-    "timeDay": 1098,
-    "timeWeek": 1135,
-    "timeMonth": 1127,
-    "timeYear": 1084,
+    "time": 1169,
+    "timeDay": 10357,
+    "timeWeek": 3445,
+    "timeMonth": 1705,
+    "timeYear": 1169,
     "dailyMinutesDown": {
       "2026-03-12": 4,
       "2026-03-13": 38,
       "2026-03-30": 106,
-      "2026-03-31": 307
+      "2026-03-31": 307,
+      "2026-09-25": 0
     }
   }
 ]
